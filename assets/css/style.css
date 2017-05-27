@@ -1,0 +1,50 @@
+body {
+  background-image: url("../images/tv-static.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#box {
+  background-color: white;
+  width: 1000px;
+  height: 800px;
+  margin-left: 200px;
+  margin-top: 100px;
+  padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+.button {
+    border:4px solid;
+    border-radius:5px;
+    width: 200px;
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: #DCDCDC;
+    color: black;
+    margin: 0 2px 0 2px;
+    font-size: 50px;
+    text-align: center;
+    float: left;
+    margin-left: 370px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+#timer {
+  text-align: center;
+}
+
+#quiz {
+  margin-left: 50px;
+}
+
+
